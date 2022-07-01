@@ -49,6 +49,8 @@
 	
 	su
 	
+	pkg install  root-repo
+	
 	mount -o remount,rw /system
 	
 	cp lpm lpm.orig
