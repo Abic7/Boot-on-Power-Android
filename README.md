@@ -26,9 +26,9 @@ Createting a new .sh file or you can use mine from the repo
 	3. Paste the code below
 	4. 	
     
-    #!/system/bin/sh
-		su -c "echo 1 > /proc/sys/kernel/sysrq"
-		echo b > /proc/sysrq-trigger
+#!/system/bin/sh
+su -c "echo 1 > /proc/sys/kernel/sysrq"
+echo b > /proc/sysrq-trigger
 	
   5. select all CTRL + A
 	6. Find and replace CTRL + H
