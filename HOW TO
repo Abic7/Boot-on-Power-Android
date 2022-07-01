@@ -1,4 +1,4 @@
-***Disclamer**
+	***Disclamer**
 	I am not responsible for bricked devices, dead SD cards or the current economic crisis caused by you following these directions. 
 	YOU are choosing to make these modifications, and if you point your finger at me for messing up your device I will LMAO at you.
 	
@@ -7,13 +7,13 @@
 	
 
 	Test Device: 
-	Samsung s9+
+	Samsung Galaxy s9+ (SM-G965F)
 	
 
 	Requirement: 
-	Samsung Phone (preferably galaxy)
-	Touchwiz Rom (AOSP roms will not work with this method)
-	Rooted with Magisk
+	1. Samsung Phone (preferably galaxy)
+	2. Touchwiz Rom (AOSP roms will not work with this method)
+	3. Rooted with Magisk
 	
 
 	Windows Apps needed
@@ -24,12 +24,14 @@
 		1. F-Droid
 		2. Termux
 	
-
 	Step 1
 	Creating a new .sh file or you can use mine from the repo
 		1. Open notepad ++
+		
 		2. create a new file
+		
 		3. Paste the code below
+		
 		4. 	
 	    #!/system/bin/sh
 	    su -c "echo 1 > /proc/sys/kernel/sysrq"
