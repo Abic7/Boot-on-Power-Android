@@ -1,5 +1,6 @@
 ***Disclamer**
-	I am not responsible for bricked devices, dead SD cards or the current economic crisis caused by you following these directions. YOU are choosing to make these modifications, and if you point your finger at me for messing up your device I will LMAO at you.
+	I am not responsible for bricked devices, dead SD cards or the current economic crisis caused by you following these directions. 
+	YOU are choosing to make these modifications, and if you point your finger at me for messing up your device I will LMAO at you.
 	
 
 	**How to boot a samsung phone using the LPM file method.**
@@ -10,7 +11,9 @@
 	
 
 	Requirement: 
-	Rooted Phone with Magisk 
+	Samsung Phone (preferably galaxy)
+	Touchwiz Rom (AOSP roms will not work with this method)
+	Rooted with Magisk
 	
 
 	Windows Apps needed
