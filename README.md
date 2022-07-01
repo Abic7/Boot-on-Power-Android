@@ -1,2 +1,2 @@
 # Boot-on-Power-Android
-This repo provide a step by step instructions on how to set up a samsung phone for boot when powered.
+This repo provides a step by step instructions on how to set up a samsung phone for auto boot when powered up.
