@@ -1,0 +1,8 @@
+File Names for various Manufactures
+
+Motorola: charge_only_mode
+Mediatek: kpoc_charger or ipod
+Htc: chargemon or zchgd
+Samsung: playlpm or lpm
+Sony: chargemon or battery_charging
+Most(?) AOSP-based roms: healthd
