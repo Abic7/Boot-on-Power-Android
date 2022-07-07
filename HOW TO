@@ -55,7 +55,8 @@
 	
 	cp lpm lpm.orig
 	
-	echo /sdcard/reboot_on_charge.sh > /system/bin/lpm
+	echo "#!/system/bin/sh" > /system/bin/lpm
+	echo "echo b > /proc/sysrq-trigger" >> /system/bin/lpm
 	
 	exit
 	
